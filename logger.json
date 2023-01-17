@@ -1,0 +1,1 @@
+{"Console":{"level":"DEBG","color":true,"LogLevel":6}, "File":{"filename":"danmu.log","level":"DEBG","daily":true,"append":true,"maxlines":1000000,"maxsize":1,"maxdays":-1,"permit":"0660"}}
